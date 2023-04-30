@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/VisaFreeCountries/static/css/main.a9fe4924.css",
-    "main.js": "/VisaFreeCountries/static/js/main.0c118c4a.js",
-    "index.html": "/VisaFreeCountries/index.html",
-    "main.a9fe4924.css.map": "/VisaFreeCountries/static/css/main.a9fe4924.css.map",
-    "main.0c118c4a.js.map": "/VisaFreeCountries/static/js/main.0c118c4a.js.map"
+    "main.css": "/money-spending-program/static/css/main.a9fe4924.css",
+    "main.js": "/money-spending-program/static/js/main.0c118c4a.js",
+    "index.html": "/money-spending-program/index.html",
+    "main.a9fe4924.css.map": "/money-spending-program/static/css/main.a9fe4924.css.map",
+    "main.0c118c4a.js.map": "/money-spending-program/static/js/main.0c118c4a.js.map"
   },
   "entrypoints": [
     "static/css/main.a9fe4924.css",
